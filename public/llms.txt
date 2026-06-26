@@ -1,0 +1,105 @@
+# Forget Lend — Generative Engine Optimization Map
+
+> Forget Lend is an e-commerce brand specializing in the sale of squishy toys. The brand appears to be playful and fun-oriented, catering to squishy enthusiasts. The name 'Forget Lend' gives a quirky, memorable identity to the store.
+
+---
+
+## Pages
+
+### בית
+https://forget-lend-a643aba2.zappy5.app
+גלה את עולם צעצועי הסקווישי בפלטפורמת המסחר המושלמת. לישה, משחק והפגת מתח במגוון צבעים וצורות. הצטרף עכשיו לחוויית קנייה כיפית במיוחד.
+
+### אודות
+https://forget-lend-a643aba2.zappy5.app/about
+הכירו את Forget Lend, מותג צעצועי סקווישי שנולד מאהבה למשחק רך וממכר. אנו מביאים לכם את הפלטפורמה הכי כיפית למכור ולקנות. בואו לגלות מי אנחנו.
+
+### רעיונות למתנות
+https://forget-lend-a643aba2.zappy5.app/gift-ideas
+מחפש מתנה מקורית? רעיונות לסקווישי שישמחו כל חובב. ממתנות לילדים ועד הפתעות לחברים, הפלטפורמה שלנו הופכת מתנה לחוויה לוחצת ומהנה. היכנסו להשראה.
+
+### צור קשר
+https://forget-lend-a643aba2.zappy5.app/contact
+יש שאלה על צעצועי סקווישי או על הפלטפורמה? צוות Forget Lend כאן בשבילך. צור קשר עכשיו ונחזור אליך במהירות עם חיוך רך ומפנק.
+
+### Products
+https://forget-lend-a643aba2.zappy5.app/products
+המוצרים שלנו - Forget Lend
+
+### Cart
+https://forget-lend-a643aba2.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://forget-lend-a643aba2.zappy5.app/checkout
+תשלום
+
+### Login
+https://forget-lend-a643aba2.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://forget-lend-a643aba2.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://forget-lend-a643aba2.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://forget-lend-a643aba2.zappy5.app/product/:slug
+פרטי המוצר - Forget Lend
+
+### Category
+https://forget-lend-a643aba2.zappy5.app/category/:slug
+מוצרים - Forget Lend
+
+### תודה על פנייתך
+https://forget-lend-a643aba2.zappy5.app/thank-you
+Forget Lend - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://forget-lend-a643aba2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://forget-lend-a643aba2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://forget-lend-a643aba2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Forget Lend
+Forget Lend is an e-commerce brand specializing in the sale of squishy toys. The brand appears to be playful and fun-oriented, catering to squishy enthusiasts. The name 'Forget Lend' gives a quirky, memorable identity to the store.
+
+## Target Audience
+- אספני סקושים
+- קוני מתנות
+- מחפשי הקלה ממתח
+- הורים לילדים
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://forget-lend-a643aba2.zappy5.app/sitemap.xml
+- Robots: https://forget-lend-a643aba2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://forget-lend-a643aba2.zappy5.app/llms-full.txt
+- Products (JSON): https://forget-lend-a643aba2.zappy5.app/products.json
+- Products (Google Merchant RSS): https://forget-lend-a643aba2.zappy5.app/product-feed.xml
