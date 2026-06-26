@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://forget-lend-a643aba2.zappy5.app
+https://example.com
 גלה את עולם צעצועי הסקווישי בפלטפורמת המסחר המושלמת. לישה, משחק והפגת מתח במגוון צבעים וצורות. הצטרף עכשיו לחוויית קנייה כיפית במיוחד.
 
 ### אודות
-https://forget-lend-a643aba2.zappy5.app/about
+https://example.com/about
 הכירו את Forget Lend, מותג צעצועי סקווישי שנולד מאהבה למשחק רך וממכר. אנו מביאים לכם את הפלטפורמה הכי כיפית למכור ולקנות. בואו לגלות מי אנחנו.
 
 ### רעיונות למתנות
-https://forget-lend-a643aba2.zappy5.app/gift-ideas
+https://example.com/gift-ideas
 מחפש מתנה מקורית? רעיונות לסקווישי שישמחו כל חובב. ממתנות לילדים ועד הפתעות לחברים, הפלטפורמה שלנו הופכת מתנה לחוויה לוחצת ומהנה. היכנסו להשראה.
 
 ### צור קשר
-https://forget-lend-a643aba2.zappy5.app/contact
+https://example.com/contact
 יש שאלה על צעצועי סקווישי או על הפלטפורמה? צוות Forget Lend כאן בשבילך. צור קשר עכשיו ונחזור אליך במהירות עם חיוך רך ומפנק.
 
 ### Products
-https://forget-lend-a643aba2.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Forget Lend
 
 ### Cart
-https://forget-lend-a643aba2.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://forget-lend-a643aba2.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://forget-lend-a643aba2.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://forget-lend-a643aba2.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://forget-lend-a643aba2.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://forget-lend-a643aba2.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Forget Lend
 
 ### Category
-https://forget-lend-a643aba2.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Forget Lend
 
 ### תודה על פנייתך
-https://forget-lend-a643aba2.zappy5.app/thank-you
+https://example.com/thank-you
 Forget Lend - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://forget-lend-a643aba2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://forget-lend-a643aba2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://forget-lend-a643aba2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://forget-lend-a643aba2.zappy5.app/sitemap.xml
-- Robots: https://forget-lend-a643aba2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://forget-lend-a643aba2.zappy5.app/llms-full.txt
-- Products (JSON): https://forget-lend-a643aba2.zappy5.app/products.json
-- Products (Google Merchant RSS): https://forget-lend-a643aba2.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
